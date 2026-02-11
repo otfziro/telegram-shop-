@@ -1,0 +1,5 @@
+body { font-family: sans-serif; background: #fafafa; margin: 0; padding: 0;}
+#categories { display:flex; gap:10px; padding:10px; overflow-x:auto; background:white;}
+.category { padding:10px 20px; background:#eee; border-radius:20px; cursor:pointer; white-space:nowrap;}
+.product { background:white; margin:10px; padding:10px; border-radius:15px; box-shadow:0 2px 8px rgba(0,0,0,0.1);}
+.product img { width:100%; border-radius:10px; }

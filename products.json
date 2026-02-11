@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "title": "Stone Island Frost Finish",
+    "price": 43990,
+    "size": "S-M",
+    "condition": "9/10",
+    "category": "jacket",
+    "photos": ["https://via.placeholder.com/400"]
+  }
+]
